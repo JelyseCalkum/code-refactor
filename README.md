@@ -4,7 +4,7 @@
 
 This project was to take existing code and refactor it to meet accessibility requirements and ensure that the landing page is optimized for search engines.
 
-You can check out the link to the deployed application here: 
+You can check out the link to the deployed application here: https://jelysecalkum.github.io/code-refactor/ 
 
 ## Description of Application
 
